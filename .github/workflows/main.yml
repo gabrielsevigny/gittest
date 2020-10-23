@@ -7,7 +7,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: git-ftp-action
-      uses: sebastianpopp/git-ftp-action@3.0.0
+      uses: gabrielsevigny/gittest
       with:
         url: "ftp://gabrielsevigny.com/public_html/gittest/"
         user: ${{ secrets.FTP_USER }}
