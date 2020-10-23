@@ -9,6 +9,7 @@ jobs:
     - name: git-ftp-action
       uses: sebastianpopp/git-ftp-action@3.0.0
       with:
+        action: "push"
         url: "ftp://gabrielsevigny.com/public_html/gittest/"
         user: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PWD }}
