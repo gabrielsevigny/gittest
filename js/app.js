@@ -1,7 +1,7 @@
 import './components/alert';
 
 //j'ai ajouté une patate
-const patate =  document.body;
+const patate = document.body;
 
 
 //des patate sa va dans un jardin
