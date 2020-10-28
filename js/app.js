@@ -6,3 +6,17 @@ const patate =  document.body;
 
 //des patate sa va dans un jardin
 let jardin = patate;
+
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
+alert('BUGGGGGGGGGGGGGG');
